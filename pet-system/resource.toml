@@ -1,0 +1,7 @@
+type = "js"
+name = "pet-system"
+version = "1.0.0"
+author = "Günji"
+main = "server/petCommand.js"
+client-main = "client/clientside.js"
+client-files = [ "client/*" ]
